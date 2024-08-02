@@ -4,42 +4,42 @@
 <h3 align="center">펫 모발을 이용한 생체 정보 분석 레포트와 사료 추천 서비스</h3>
 </p>
 
-## Medium
+## 🗂️ Medium
 
 [Fur-Fact Medium](https://medium.com/@ickim1218/펫-모발을-이용한-생체-정보-분석-레포트와-사료-추천-서비스-3ba691bf1b24)
 
-## Core Features
+## 🔎 Core Features
 
 1. 데이터 결과가 들어간 xml 파일을 업로드하여 데이터베이스에 저장
 2. 데이터의 결과를 쉽게 알아볼 수 있도록 **시각화**된 차트 제공
 3. 검사 결과에 알맞은 **사료 추천**
 
-## Demo
+## 📹 Demo
 
 - 메인 페이지
 - 레포트 페이지
 - 수의사 페이지
 - 등…..
 
-## System Architecture
+## 🚨 System Architecture
 
 ![fur-arc.png](https://github.com/user-attachments/assets/869f760a-2d13-402f-a9d0-5a54074ad62e)
 
-## Tech Stack
+## 📚 Tech Stack
 
 |                                                                                                                                                                                                                                                   Frontend                                                                                                                                                                                                                                                   |                                                                                                                                              Backend                                                                                                                                              |                                                                                                                                                                                                                                                                   DevOps                                                                                                                                                                                                                                                                    |                                                                                                 Monitoring                                                                                                 |                                                                                                                                                                                                                                                    ETC                                                                                                                                                                                                                                                     |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/><br><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/><br><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/><br><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white"/><br><img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=PWA&logoColor=white"/> | <img src="https://img.shields.io/badge/Node.js-FA04E?style=flat&logo=Node.js&logoColor=white"/><br><img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"><br><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/><br><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/><br><img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white"/><br><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/><br><img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white"/> | <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white"/><br><img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white"/> | <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/><br><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/><br><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/><br><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/><br><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/><br> |
 
-## ERD
+## ⚙️ ERD
 
 ![fur-Erd.png](https://github.com/user-attachments/assets/f7e06453-836b-4ce5-8566-1ac93045ef39)
 
-## API
+## 🎨 API
 
 ![Untitled](https://github.com/user-attachments/assets/57121182-e8ec-4008-89b4-b5c60fbfe25c)
 
-## File Directory
+## 📦 File Directory
 
 <details>
 <summary>Frontend</summary>
@@ -200,7 +200,7 @@
 
 </details>
 
-## Team Members
+## 👩🏻‍💻🧑🏻‍💻 Team Members
 
 <table width="1000">
 <thead>
