@@ -282,7 +282,7 @@ Frontend<br>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/Kiminni">
-<img src="http://img.shields.io/badge/penloo-green?style=social&logo=github"/>
+<img src="http://img.shields.io/badge/Kiminni-green?style=social&logo=github"/>
 </a>
 </td>
 <td width="100" align="center">
@@ -292,17 +292,17 @@ Frontend<br>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/egg-silver">
-<img src="http://img.shields.io/badge/egg-silver-green?style=social&logo=github"/>
+<img src="http://img.shields.io/badge/eggsilver-green?style=social&logo=github"/>
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/Ajeong-Im">
-<img src="http://img.shields.io/badge/Ajeong-Im-green?style=social&logo=github"/>
+<img src="http://img.shields.io/badge/AjeongIm-green?style=social&logo=github"/>
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/nagosu">
-<img src="http://img.shields.io/badge/rachel4w2-green?style=social&logo=github"/>
+<img src="http://img.shields.io/badge/nagosu-green?style=social&logo=github"/>
 </a>
 </td>
 </tr>
